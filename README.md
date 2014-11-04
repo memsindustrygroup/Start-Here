@@ -1,4 +1,4 @@
-Accelerated Innovation Cooperative
+Accelerated Innovation Cooperative (AIC)
 ==========
 
 The AIC is the first industry open source community designed to accelerate sensor algorithm development.  It:
